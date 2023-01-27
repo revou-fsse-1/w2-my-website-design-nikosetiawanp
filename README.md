@@ -10,16 +10,15 @@ Link Figma: <https://www.figma.com/file/4quBsieCIvrdCkgMg6qmwB/Niko-Setiawan-P?n
 
 Link Miro : <https://miro.com/app/board/uXjVPuW5A_Q=/?share_link_id=702288466772>
 
-Inspiration :<>
-Inspiration :<>
-Inspiration :<>
+Inspiration :<https://www.behance.net/gallery/161891959/Food-landing-page?tracking_source=search_projects%7Cfood+website>
+Inspiration :<https://dribbble.com/shots/19642537-Website-Hero-for-Bakery>
 
 ## Screenshots
 
 ### Miro (Wireframe)
 
-![Miro](image link)
+![Miro](miro.jpg)
 
 ### Figma (Mockup and Prototyping)
 
-![Figma](image link)
+![Figma](figma.jpg)
